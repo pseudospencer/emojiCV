@@ -54,7 +54,7 @@ function draw() {
     var emotionRecognition = classifier.meanPredict(parameters);
 
     if (positions.length > 0) {
-        drawFaceComponentShape(faceOutline);
+        // drawFaceComponentShape(faceOutline);
         drawFaceComponentEmoji(faceOutline, "👊");
 
         drawFaceComponentEmoji(leftEye, "👁");
