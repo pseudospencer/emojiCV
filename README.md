@@ -12,5 +12,7 @@ build4/ added in real time emotion estimation
 build5/ drawing the face with emojis that change based on tracked emotions  
 build6/ emotion reactive facetracking emoji halo effect  
 build7/ changed up the halo a bit and added in a feature that will shoot emojis out of your mouth  
+build8/ added in perlin noise walker emojis that emanate from mouth and float around screen  
+build9/ added large emoji that covers face with current emotion
 
 Some screencaps in the /MOV, /PNG, and /MP4 files
